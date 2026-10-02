@@ -1,0 +1,16 @@
+/* INVST Brand Standards 2026 v8 - core CSS tokens (mirror of apps/web/src/app/globals.css in invst-os). */
+:root {
+  --color-invst-green: #a9cf38;
+  --color-invst-green-dark: #8fb32a;
+  --color-invst-green-tint: #f4f8e8;
+  --color-invst-black: #000000;
+  --color-invst-grey: #5a5a5a;
+  --color-invst-grey-light: #d3d3d3;
+  --color-invst-white: #ffffff;
+  --color-invst-red: #d21404;
+  --color-invst-red-deep: #b92222;
+  --color-invst-blue: #4b9cd3;
+  --color-invst-yellow: #fee50f;
+  --color-invst-amber: #ffbf00;
+  --font-invst: var(--font-montserrat), Montserrat, system-ui, sans-serif;
+}
