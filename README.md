@@ -28,9 +28,9 @@ caps. Tagline: "Making Money Work For You". No superlatives in copy.
 ## Fetch it from anywhere
 
 ```
-https://raw.githubusercontent.com/invstnxt/invst-brand/main/BRAND.md
-https://raw.githubusercontent.com/invstnxt/invst-brand/main/tokens/invst.css
-https://raw.githubusercontent.com/invstnxt/invst-brand/main/tokens/tailwind.brand.ts
+https://raw.githubusercontent.com/invstnxt-org/invst-brand/main/BRAND.md
+https://raw.githubusercontent.com/invstnxt-org/invst-brand/main/tokens/invst.css
+https://raw.githubusercontent.com/invstnxt-org/invst-brand/main/tokens/tailwind.brand.ts
 ```
 
 ## How this stays current

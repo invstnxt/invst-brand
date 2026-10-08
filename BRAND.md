@@ -1,7 +1,7 @@
 # BRAND.md — paste-along context for every UI-building Claude Code session
 
 > Map of every brand file in this repo + the gate that enforces them: `docs/brand/README.md`.
-> Public mirror for sessions without repo access: https://github.com/invstnxt/invst-brand (v8 governs; website CSS is off).
+> Public mirror for sessions without repo access: https://github.com/invstnxt-org/invst-brand (v8 governs; website CSS is off).
 > The public website's CSS is NOT the standard (it drifts from v8); never scrape invst.com for tokens.
 
 Every INVST OS and Vela screen follows INVST Brand Standards 2026 v8. Non-negotiables:
